@@ -1,8 +1,8 @@
 # Leetcode Java solutions
 
-Solutions are inside `src/main/java/`
+Solutions are inside `app/src/main/java/`
 
-Tests are inside `src/test/java`
+Tests are inside `app/src/test/java`
 
 ## Solutions:
 1. Two Sum (Easy)
