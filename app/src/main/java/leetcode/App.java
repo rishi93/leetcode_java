@@ -3,16 +3,8 @@
  */
 package leetcode;
 
-import romanToInt.Solution;
-
 public class App {
     public static void main(String[] args) {
         System.out.println("Hello world!");
-
-        Solution solution = new Solution();
-
-        System.out.println(solution.romanToInt("III"));
-        System.out.println(solution.romanToInt("LVIII"));
-        System.out.println(solution.romanToInt("MCMXCIV"));
     }
 }
